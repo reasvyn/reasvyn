@@ -48,16 +48,6 @@ Welcome to my GitHub profile! ⭐ I'm a passionate Fullstack Web Developer with 
 ## 🏆 GitHub Trophies
 <img width="100%" height="auto" src="https://github-trophies.vercel.app/?username=reasnov&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="reasnov's GitHub trophies" />
 
-## 🚀 Notable Projects
-
-### [My Personal Website](https://reasnov.github.io)
-My personal portfolio and blog where I share my thoughts on web development and technology.
-
-### [Internara - Internship Management System](https://github.com/reasnov/internara)
-An application to streamline the process of managing internships, connecting students with companies. (Under Development)
-
-Feel free to explore my repositories to see more of my work.
-
 ## 🛠️ Current Work
 
 I'm currently focusing on:
