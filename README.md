@@ -69,4 +69,4 @@ As a **Solopreneur**, my focus is on crafting digital ecosystems that are safe, 
 
 ---
 
-### 🫶 Support Me on [SociaBuzz](https://sociabuzz.com/reasvyn)
+### 🫶 Thanks for supporting me on [SociaBuzz](https://sociabuzz.com/reasvyn/tribe)
