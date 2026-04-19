@@ -6,7 +6,7 @@ As a **Coder**, my focus is on crafting digital ecosystems that are safe, honest
 <p align="center">
   <img src="https://img.shields.io/badge/Ecosystem-Secure_Sustain_Scalable-2ea44f" alt="Static Badge">
   <img src="https://img.shields.io/badge/Status-Open_for_Projects-success?logo=workplace" alt="Open for Projects">
-  <img src="https://img.shields.io/badge/Role-Fullstack_Developerblue" alt="Fullstack Role">
+  <img src="https://img.shields.io/badge/Role-Fullstack_Developer-blue" alt="Fullstack Role">
   <img src="https://img.shields.io/github/stars/reasvyn?style=flat-square&label=Total%20Stars&color=yellow" alt="Total Stars">
   <img src="https://komarev.com/ghpvc/?username=reasvyn&color=blueviolet&style=flat-square&label=Profile%20Views" alt="Profile Views">
 </p>
