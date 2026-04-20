@@ -26,20 +26,10 @@ As a **Coder**, my focus is on crafting digital ecosystems that are safe, honest
 
 ## 🛠️ Main Tech Stacks
 
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</p>
+- **Core Logic**: Rust, TypeScript, PHP
+- **Frameworks**: Laravel, NextJS, Astro, Svelte
+- **Databases**: PostgreSQL, Redis, Event Sourcing
+- **Infrastructure**: Docker, AWS, Linux
 
 ## 🚀 Highlights
 
@@ -71,19 +61,12 @@ As a **Coder**, my focus is on crafting digital ecosystems that are safe, honest
 
 ## 💬 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/reasvyn">
-    <img src="https://img.shields.io/badge/LinkedIn-reasvyn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/reasvyn">
-    <img src="https://img.shields.io/badge/Instagram-@reasvyn-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:reasvyn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-reasvyn@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://sociabuzz.com/reasvyn/tribe">
-    <img src="https://img.shields.io/badge/Support-SociaBuzz-orange?style=flat-square" alt="SociaBuzz">
-  </a>
-</p>
+- **LinkedIn**: [Reas Vyn](https://www.linkedin.com/in/reasvyn)
+- **Instagram**: [@reasvyn](https://instagram.com/reasvyn)
+- **Email**: [reasvyn@gmail.com](mailto:reasvyn@gmail.com)
 
 *Following the quietest guidance to build a faithful impact.* 🌿
+
+---
+
+### 🫶 Thanks for supporting me on [SociaBuzz](https://sociabuzz.com/reasvyn/tribe)
