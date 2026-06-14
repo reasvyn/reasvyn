@@ -33,7 +33,7 @@ As a **Coder**, my focus is on crafting digital ecosystems that are safe, honest
 
 ## 🚀 Highlights
 
-- 🕊️ **Stewardship**: Delivering production-grade systems with a focus on responsibility and reliability since 2020.
+- 🕊️ **Stewardship**: Delivering enterprise-grade systems with a focus on responsibility and reliability since 2020.
 - 🏗️ **Independent Path**: Operating as a solopreneur—full ownership from architecture to deployment on every project.
 - 🌐 **Open Ecosystems**: Building in public, contributing precise and stable logic to the broader digital commons.
 
