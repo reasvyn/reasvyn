@@ -58,20 +58,32 @@ Fullstack Developer crafting digital ecosystems that are secure, sustainable, an
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=reasvyn&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=dark&cache_seconds=1800"
-        alt="reasvyn's GitHub stats"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reasvyn&theme=dark"
+        alt="reasvyn's GitHub profile"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reasvyn&layout=compact&hide_border=true&theme=dark&cache_seconds=1800"
-        alt="reasvyn's top languages"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reasvyn&theme=dark"
+        alt="reasvyn's GitHub stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reasvyn&theme=dark"
+        alt="reasvyn's top languages by repo"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reasvyn&theme=dark"
+        alt="reasvyn's top languages by commit"
       />
     </td>
   </tr>
 </table>
-
-> **Note**: If stats fail to load, the service may be rate-limited. For production reliability, consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel.
 
 ## GitHub Trophies
 
