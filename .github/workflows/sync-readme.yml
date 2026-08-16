@@ -1,0 +1,45 @@
+name: Sync README to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+        with:
+          repository: reasvyn/reasvyn
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: reasvyn/reasvyn.github.io
+          token: ${{ secrets.PAT_TOKEN }}
+          path: target
+          ref: main
+
+      - name: Copy README
+        run: |
+          cp README.md target/README.md
+
+      - name: Commit and push
+        working-directory: target
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: sync README from reasvyn/reasvyn"
+            git push
+          else
+            echo "No changes to README.md"
+          fi
