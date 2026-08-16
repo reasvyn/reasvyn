@@ -40,6 +40,7 @@ Fullstack Developer crafting digital ecosystems that are secure, sustainable, an
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[DevBook](https://github.com/reasvyn/devbook)** | Markdown-based learning library for developers — 21 subjects from math & CS fundamentals to software engineering, infrastructure, AI/ML, career growth, and philosophy. Zero dependencies, no build step, open any `.md` file to start reading. | `Markdown` `Git` |
 | *[Project Name]* | Brief description of what it does and the problem it solves. | `Rust` `PostgreSQL` `Docker` |
 | *[Project Name]* | Brief description of what it does and the problem it solves. | `Next.js` `TypeScript` `AWS` |
 | *[Project Name]* | Brief description of what it does and the problem it solves. | `Laravel` `Redis` `Event Sourcing` |
