@@ -41,11 +41,6 @@ Fullstack Developer crafting digital ecosystems that are secure, sustainable, an
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[DevBook](https://github.com/reasvyn/devbook)** | Markdown-based learning library for developers — 21 subjects from math & CS fundamentals to software engineering, infrastructure, AI/ML, career growth, and philosophy. Zero dependencies, no build step, open any `.md` file to start reading. | `Markdown` `Git` |
-| *[Project Name]* | Brief description of what it does and the problem it solves. | `Rust` `PostgreSQL` `Docker` |
-| *[Project Name]* | Brief description of what it does and the problem it solves. | `Next.js` `TypeScript` `AWS` |
-| *[Project Name]* | Brief description of what it does and the problem it solves. | `Laravel` `Redis` `Event Sourcing` |
-
-> Replace placeholder projects above with your actual repositories. Add 3–5 that best represent your work.
 
 ---
 
@@ -63,18 +58,20 @@ Fullstack Developer crafting digital ecosystems that are secure, sustainable, an
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=reasvyn&show_icons=true&count_private=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=reasvyn&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=dark&cache_seconds=1800"
         alt="reasvyn's GitHub stats"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reasvyn&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=reasvyn&layout=compact&hide_border=true&theme=dark&cache_seconds=1800"
         alt="reasvyn's top languages"
       />
     </td>
   </tr>
 </table>
+
+> **Note**: If stats fail to load, the service may be rate-limited. For production reliability, consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel.
 
 ## GitHub Trophies
 
