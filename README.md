@@ -11,13 +11,13 @@
 ### *Building quietly, for a faithful impact.*
 
 <p align="center">
-  <a href="https://reasvyn.web.id">
+  <a href="https://gh.reasvyn.web.id">
     <img src="https://img.shields.io/badge/🌿_THEME-CODE_GARDEN-10ff70?style=for-the-badge&labelColor=080c0a&color=10ff70" alt="Code Garden Theme">
   </a>
-  <a href="https://reasvyn.web.id">
+  <a href="https://gh.reasvyn.web.id">
     <img src="https://img.shields.io/badge/✦_DOCTRINE-3S_ARCHITECTURE-10ff70?style=for-the-badge&labelColor=080c0a&color=10ff70" alt="3S Architecture">
   </a>
-  <a href="https://reasvyn.web.id">
+  <a href="https://gh.reasvyn.web.id">
     <img src="https://img.shields.io/badge/✦_STATUS-OPEN_FOR_PROJECTS-10ff70?style=for-the-badge&labelColor=080c0a&color=10ff70" alt="Open for Projects">
   </a>
 </p>
@@ -138,7 +138,7 @@
 
 Feel free to reach out for collaborations, architecture dialogues, or system inquiries:
 
-- 🌐 **Website**: [reasvyn.web.id](https://reasvyn.web.id)
+- 🌐 **Website**: [gh.reasvyn.web.id](https://gh.reasvyn.web.id)
 - 💼 **LinkedIn**: [Reas Vyn](https://www.linkedin.com/in/reasvyn)
 - 📷 **Instagram**: [@reasvyn](https://instagram.com/reasvyn)
 - ✉️ **Direct Dispatch**: [reasvyn@gmail.com](mailto:reasvyn@gmail.com)
